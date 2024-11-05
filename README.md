@@ -67,6 +67,8 @@ The RNN model consists of:
 ```python
 model.summary()
 ```
+![image](https://github.com/user-attachments/assets/df4a409f-93a7-4263-9bac-0baf641e5806)
+
 
 ## Evaluation Metrics
 The model's performance is evaluated using:
