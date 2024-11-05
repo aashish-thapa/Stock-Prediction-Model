@@ -1,4 +1,3 @@
-Here's a template for a `README.md` file that you can use for your stock price prediction project using an RNN model. You can customize the content to fit your specific project details and preferences.
 
 ```markdown
 # Stock Price Prediction Using RNN
