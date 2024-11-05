@@ -1,5 +1,4 @@
 
-```markdown
 # Stock Price Prediction Using RNN
 
 ## Project Overview
